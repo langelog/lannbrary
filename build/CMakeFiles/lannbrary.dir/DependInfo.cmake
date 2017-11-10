@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/langelog/Git/lannbrary/src/NeuralNetwork.cpp" "/Users/langelog/Git/lannbrary/build/CMakeFiles/lannbrary.dir/src/NeuralNetwork.cpp.o"
   "/Users/langelog/Git/lannbrary/src/Neuron.cpp" "/Users/langelog/Git/lannbrary/build/CMakeFiles/lannbrary.dir/src/Neuron.cpp.o"
   "/Users/langelog/Git/lannbrary/src/main.cpp" "/Users/langelog/Git/lannbrary/build/CMakeFiles/lannbrary.dir/src/main.cpp.o"
   )
@@ -14,6 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
   "../"
   "../include"
+  "../thirdparty"
   )
 
 # Targets to which this target links.
