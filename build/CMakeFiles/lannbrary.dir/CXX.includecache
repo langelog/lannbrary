@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Neuron.h
+iostream
+-
+
+../include/neuron.h
+iostream
+-
+
+/Users/langelog/Git/lannbrary/src/Neuron.cpp
+neuron.h
+/Users/langelog/Git/lannbrary/src/neuron.h
+
+/Users/langelog/Git/lannbrary/src/main.cpp
+iostream
+-
+Neuron.h
+/Users/langelog/Git/lannbrary/src/Neuron.h
+

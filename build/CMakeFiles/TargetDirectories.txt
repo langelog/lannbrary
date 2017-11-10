@@ -1,0 +1,3 @@
+/Users/langelog/Git/lannbrary/build/CMakeFiles/rebuild_cache.dir
+/Users/langelog/Git/lannbrary/build/CMakeFiles/edit_cache.dir
+/Users/langelog/Git/lannbrary/build/CMakeFiles/lannbrary.dir
